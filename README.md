@@ -1,6 +1,6 @@
 ### About me:
 Hi I'm my name is Jason ( A.K.A. Jacksonbird8237 )  
-I  am going to TechElevator online bootcamp so I can then pursue a career in coding.
+I  completed TechElevator an online bootcamp so I can then pursue a career in coding.
 
 I am currently working on TheMessengerItemTracker which is a item tracker for the game 'The Messenger' currently made in html, css, and js.
 
