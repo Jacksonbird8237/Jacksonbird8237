@@ -1,6 +1,6 @@
 ### About me:
 Hi I'm my name is Jason ( A.K.A. Jacksonbird8237 )  
-I  completed TechElevator an online bootcamp so I can then pursue a career in coding.
+I  completed an online bootcamp and am currently going to college so I can then pursue a career in coding.
 
 I am currently working on TheMessengerItemTracker which is a item tracker for the game 'The Messenger' currently made in html, css, and js.
 
@@ -8,7 +8,7 @@ I like helping people out with their projects when I have time available to do s
 
 I currently know Java, C#, and a little bit of JavaScript.
 
-You can reach me at my email jkbirdstar@gmail.com or at my phone number 732-703-8955.
+You can reach me at my email jkbirdstar@gmail.com
 
 <!--
 **Jacksonbird8237/Jacksonbird8237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
